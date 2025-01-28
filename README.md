@@ -210,5 +210,4 @@ pnpm start --characters="characters/trump.character.json,characters/tate.charact
 
 ---
 
-Happy building! 🚀
-```
+# Happy building! 🚀
