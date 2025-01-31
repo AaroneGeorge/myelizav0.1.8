@@ -39,21 +39,14 @@ Before getting started with **Eliza**, ensure you have the following tools and d
    cd eliza
    ```
 
-3. **Switch to the latest stable version tag**
-
-   ```bash
-   # Check out the latest release known to work
-   git checkout $(git describe --tags --abbrev=0)
-   ```
-
-4. **Install dependencies**
+5. **Install dependencies**
 
    ```bash
    pnpm install
    ```
    > **Note**: Use the `--no-frozen-lockfile` flag only during initial setup, version bumps, or when adding new packages.
 
-5. **Build the local libraries**
+6. **Build the local libraries**
 
    ```bash
    pnpm build
