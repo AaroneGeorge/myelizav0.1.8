@@ -1,6 +1,11 @@
 {
     "name": "tate",
-    "clients": ["twitter","telegram"],
+    "clients": ["discord","telegram","twitter"],
+    "clientConfig": {
+        "discord": {
+            "enabled": true
+        }
+    },
     "modelProvider": "openai",
     "imageProvider": "together",
     "settings": {
