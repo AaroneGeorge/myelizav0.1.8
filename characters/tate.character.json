@@ -1,6 +1,6 @@
 {
     "name": "tate",
-    "clients": ["discord","telegram","twitter"],
+    "clients": ["discord","twitter","direct"],
     "clientConfig": {
         "discord": {
             "enabled": true
